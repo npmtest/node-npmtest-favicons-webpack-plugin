@@ -246,7 +246,7 @@
 <tspan x="10" y="3898">    │ ├── https-browserify@0.0.1 </tspan>
 <tspan x="10" y="3914">    │ ├── os-browserify@0.2.1 </tspan>
 <tspan x="10" y="3930">    │ ├── path-browserify@0.0.0 </tspan>
-<tspan x="10" y="3946">    │ ├── process@0.11.9 </tspan>
+<tspan x="10" y="3946">    │ ├── process@0.11.10 </tspan>
 <tspan x="10" y="3962">    │ ├── punycode@1.4.1 </tspan>
 <tspan x="10" y="3978">    │ ├── querystring-es3@0.2.1 </tspan>
 <tspan x="10" y="3994">    │ ├─┬ readable-stream@2.2.9 </tspan>
